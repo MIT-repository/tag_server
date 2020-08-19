@@ -1,0 +1,9 @@
+/Data
+/__pycache__
+Data/
+/Prediction
+musicDNN*
+musicDNN.*
+
+/__pycache__
+/.idea
